@@ -20,7 +20,10 @@ urls:
 
 author_logo: headshot.jpeg
 author: Corbin Petersen
-author_bio: Having spent over 10 years working in full-time leadership in a large multi-site church, as well as his background in the service and tech industry, Corbin has effectively built and led countless large teams of people that have depended on collaboration and teamwork between multiple departments to succeed. He also has an expertise in managing multiple large projects simultaneously, as well as the ability to absorb complex information and techniques and break them down into teachable segments for training and development of volunteers and coworkers. Corbin is currently pursuing completion of the LaunchCode Web Development bootcamp, growing as a budding full-stack developer.  \nBesides his leadership and technical skills, Corbin is a multi-instrumentalist and songwriter with experience as a professional musician, both on stage and in the studio. All this combined with his thirst for learning, his penchant for mastering new technologies, and his desire to empower and equip others to succeed, Corbin would be a valuable addition to any team and would contribute to its flourishing.
+author_bio: 
+ Having spent over 10 years working in full-time leadership in a large multi-site church, as well as his background in the service and tech industry, Corbin has effectively built and led countless large teams of people that have depended on collaboration and teamwork between multiple departments to succeed. He also has an expertise in managing multiple large projects simultaneously, as well as the ability to absorb complex information and techniques and break them down into teachable segments for training and development of volunteers and coworkers. Corbin is currently pursuing completion of the LaunchCode Web Development bootcamp, growing as a budding full-stack developer.  
+ 
+ Besides his leadership and technical skills, Corbin is a multi-instrumentalist and songwriter with experience as a professional musician, both on stage and in the studio. All this combined with his thirst for learning, his penchant for mastering new technologies, and his desire to empower and equip others to succeed, Corbin would be a valuable addition to any team and would contribute to its flourishing.
 author_email: "corbincpetersen@gmail.com"
 author_location: St. Louis, MO
 typewrite-text: Worship Leader & Multi-Instrumentalist | Budding Web Developer [ HTML | CSS | JavaScript | React | Java ]
@@ -28,17 +31,25 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: The Journey Fellowship
+              company_logo: JourneyIconWhite.png
+              company_url: http://thejourney.org
+              designation: Worship & Arts Director
+              description: 
+               - Directed and developed large teams of volunteers to organize and lead weekly gatherings and seasonal events, often coordinating between multiple departments across multiple campuses to achieve desired goals.
+               - Managed multiple facilities, coordinating with vendors and contractors for fixes and upkeep, as well as project managed multiple large installations.
+               - Oversaw the procurement and implementation of new technologies and equipment, such as network stacks, smart devices, VOIP cameras, computers, remote stage lighting, and cloud livestreaming services.
+               - Trained volunteers on the use of production technology and audio engineering, breaking down complex processes into bitesized pieces for systematic teaching.
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Mozingo Music (now part of the Palen Music family)
+              company_logo: MozingoMusic.png
+              company_url: https://www.youtube.com/channel/UCV0IP4P4oWQ5Y3RuJ1KDPVA
+              designation: Web, Marketing, & Church Sales
+              description: 
+               - Rebuilt the online storefront and incorporated WordPress as backend management.
+               - Managed a large client list of churches, with deliverables for each client. 
+               - Coordinated deliveries and installations of new equipment.
+               - Built engaging marketing emails and newsletters sent weekly.
               visibility: true
 
 # Education
