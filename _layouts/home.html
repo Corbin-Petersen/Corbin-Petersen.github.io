@@ -12,5 +12,9 @@ layout: full-width
     <!-- hero section-->
     {%- include hero.html -%}
     <div class="col-lg-8 offset-md-2">
-      {%- include recent_articles.html -%}
+      <!-- {%- include recent_articles.html -%} -->
+      <h1>Skills</h1>
+      {%- include author_skills.html -%}
+      <h1>About Me</h1> 
+      <p>{{ site.author_bio }}</p>
     </div>
