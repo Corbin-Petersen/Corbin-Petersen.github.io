@@ -55,7 +55,7 @@ author_education_details:
                 college_name: LaunchCode
                 college_url: https://www.launchcode.org/
                 college_degree: Full Time Software Development
-                description: Summer 2025
+                description: An intensive course covering JavaScript, Java, TypeScript, HTML, CSS, Angular, Spring Boot, Thymeleaf, Bootstrap, SQL, and more. Undertook various assignments and projects to demonstrate front end, back end, and full stack development. Implemented test-driven development, Git workflow, MVC design, model binding, object-relational mapping, data validation, and authentication.
                 visibility: true
               - college_logo: EU.jpg
                 college_name: Evangel University
